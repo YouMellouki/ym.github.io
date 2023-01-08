@@ -2,4 +2,4 @@
 
 Personal Static Website
 
-[ahsankhan.me](https://ahsankhan.me)
+[ahsankhan.me](https://younesmell.me)
